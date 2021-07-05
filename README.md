@@ -1,3 +1,8 @@
+<h3 align="left">Hello there 👋</h3>
+
+<h4 align="left"> I'm Angad Chandhok </h4>
+
+<p align="left"> I'm a data scientist based out of Bengaluru, India and I work at Fidelity Investments </p>
 
 
 - 📫 How to reach me **chanangad@gmail.com**
