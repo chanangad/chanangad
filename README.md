@@ -2,7 +2,10 @@
 
 <h4 align="left"> I'm Angad Chandhok </h4>
 
-<p align="left"> I'm a data scientist based out of Bengaluru, India and I work at Fidelity Investments </p>
+- I'm a data scientist based out of Bengaluru, India and currently working at Fidelity Investments
+- Ask me about Machine Learning/Natural Language Processing/Artificial Intelligence
+
+
 
 
 - 📫 How to reach me **chanangad@gmail.com**
