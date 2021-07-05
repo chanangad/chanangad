@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Angad</h1>
-<h3 align="center">A data scientist based out of Bengaluru, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanangad&label=Profile%20views&color=0e75b6&style=flat" alt="chanangad" /> </p>
 
